@@ -1,0 +1,14 @@
+node_modules
+server
+public
+.tmp
+.sass-cache
+.idea
+client/apiGateway-js-sdk
+client/globals
+client/bower_components
+/dist
+/server/config/local.env.js
+npm-debug.log
+coverage
+.DS_Store
